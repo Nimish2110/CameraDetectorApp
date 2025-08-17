@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">CameraDetectorApp</string>
+
+    <!-- Permissions -->
+    <string name="permission_required">Camera permission is required to continue</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="exit">Exit</string>
+
+    <!-- Camera Detection Screen -->
+    <string name="initializing_camera">Initializing camera…</string>
+    <string name="hidden_camera_detected">⚠️ Hidden camera detected!</string>
+    <string name="no_camera_found">✅ No hidden camera found</string>
+    <string name="back">Back</string>
+    <string name="start_camera_detection">Start Camera Detection</string>
+
+    <!-- IR Detection Screen -->
+    <string name="ir_checking">Checking for IR signals…</string>
+    <string name="ir_light_detected">⚠️ Bright spot detected – Possible IR camera!</string>
+    <string name="no_ir_detected">✅ No suspicious IR light detected</string>
+    <string name="start_ir_detection">Start IR Detection</string>
+
+    <!-- Common -->
+    <string name="welcome_message">Welcome to Camera Detector</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="magnetic_field_default">Magnetic Field: 0 µT</string>
+    <string name="magnetic_status_scanning">Scanning…</string>
+
+    <string name="camera_status_initializing">Initializing…</string>
+
+
+</resources>
